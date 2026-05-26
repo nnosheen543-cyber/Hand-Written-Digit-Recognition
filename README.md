@@ -54,5 +54,4 @@ This project demonstrates:
 - SVM model training
 - Event handling in Python
 ## Author
-
-Your Name
+Nosheen Nasir
